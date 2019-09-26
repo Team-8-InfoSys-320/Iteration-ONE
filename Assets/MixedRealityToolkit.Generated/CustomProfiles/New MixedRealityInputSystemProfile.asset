@@ -88,18 +88,18 @@ MonoBehaviour:
     reference: Microsoft.MixedReality.Toolkit.Input.DefaultRaycastProvider, Microsoft.MixedReality.Toolkit.Services.InputSystem
   focusQueryBufferSize: 128
   focusIndividualCompoundCollider: 0
-  inputActionsProfile: {fileID: 11400000, guid: 723eb97b02944311b92861f473eee53e,
+  inputActionsProfile: {fileID: 11400000, guid: e3c3d82dc83e8d143b45feaf2f9ae42c,
     type: 2}
-  inputActionRulesProfile: {fileID: 11400000, guid: 03945385d89102f41855bc8f5116b199,
+  inputActionRulesProfile: {fileID: 11400000, guid: 0e09a0db94c337e4e906cc0a24a4dd24,
     type: 2}
-  pointerProfile: {fileID: 11400000, guid: 48aa63a9725047b28d4137fd0834bc31, type: 2}
+  pointerProfile: {fileID: 11400000, guid: a55efccd9175c5240baf55d395d88693, type: 2}
   gesturesProfile: {fileID: 11400000, guid: bd7829a9b29409045a745b5a18299291, type: 2}
   speechCommandsProfile: {fileID: 11400000, guid: e8d0393e66374dae9646851a57dc6bc1,
     type: 2}
   enableControllerMapping: 1
-  controllerMappingProfile: {fileID: 11400000, guid: 39ded1fd0711a0c448413d0e1ec4f7f3,
+  controllerMappingProfile: {fileID: 11400000, guid: bd39ae676b37448469e0d35b74503184,
     type: 2}
-  controllerVisualizationProfile: {fileID: 11400000, guid: 345c06fdf3732db46b96299bd3cba653,
+  controllerVisualizationProfile: {fileID: 11400000, guid: aea2c3b886cb07c40a1d64bc8b74fe59,
     type: 2}
-  handTrackingProfile: {fileID: 11400000, guid: 7f1e3cd673742f94ca860ac7ae733024,
+  handTrackingProfile: {fileID: 11400000, guid: 239820792df6fa341b64ff1d44cc55df,
     type: 2}

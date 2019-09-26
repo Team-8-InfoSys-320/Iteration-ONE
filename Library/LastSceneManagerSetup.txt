@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Iteration 1.unity
+- path: Assets/Scenes/Auckland.unity
   isLoaded: 1
   isActive: 1
